@@ -1,0 +1,954 @@
+body {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 240px;
+}
+#navDiv {
+    width: 100%;
+    height: 72px;
+    background-color: #FBF9FF;
+    padding: 12px 32px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+#nextMoveDiv {
+    width: 174px;
+    height: 48px;
+    padding: 14px;
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 559px;
+}
+#NextMoveImage {
+    width: 147px;
+    height: 21px;
+}
+#navInfo {
+    display: inline-block;
+    width: 236px;
+    height: 22px;
+    vertical-align: middle;
+    text-align: center;
+}
+#navInfo p {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+#pricingDiv {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 18px;
+}
+#faqDiv {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 18px;
+}
+#reviewsDiv {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    font-size: 18px;
+}
+#anchorPricing {
+    text-decoration: none;
+    color: #323232;
+}
+#anchorFaq {
+    text-decoration: none;
+    color: #323232;
+}
+#anchorReviews {
+    text-decoration: none;
+    color: #323232;
+}
+#contactUsDiv {
+    width: 105px;
+    height: 33px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 8px 16px;
+    box-sizing: border-box;
+    background-color: #6941C6;
+    border: 1px solid #6941C6;
+    border-radius: 8px;
+    margin-left: 757px;
+
+}
+#contactUsButton {
+    padding: 0;
+    background-color: #6941C6;
+    border: none;
+    vertical-align: top;
+}
+#anchorContactUs {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 500;
+}
+#mainDiv {
+    max-width: 1440px;
+    width: 100%;
+    height: 3083px;
+    margin: 0 auto;
+    margin-top: 94px;
+    padding: 96px;
+    box-sizing: border-box;
+    background-color: #F1E8FF;
+}
+#CardsDiv {
+    max-width: 1248px;
+    width: 100%;
+    height: 753px;
+    box-sizing: border-box;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+#cardsTitleDiv {
+    max-width: 768px;
+    width: 100%;
+    height: 132px;
+    margin: 0 auto;
+}
+#pricingPlansDiv {
+    width: 259px;
+    height: 48px;
+    margin: 0 auto;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    color: #181D27;
+}
+#contentPricingPlansDiv {
+    max-width: 768px;
+    width: 100%;
+    height: 64px;
+    color: #535862;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+#firstCardDiv {
+    display: inline-block;
+    max-width: 373px;
+    width: 100%;
+    height: 589px;
+    border: 1px solid #E9EAEB;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    vertical-align: top;
+}
+#firstCardInfoDiv {
+    max-width: 373px;
+    width: 100%;
+    height: 332px;
+    box-sizing: border-box;
+    padding: 40px 32px;
+}
+#basicPlanButtonDiv {
+    width: 93px;
+    height: 28px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 4px 12px;
+    border: 1px solid #E9D7FE;
+    border-radius: 9px;
+    background-color: #F9F5FF;
+    text-align: center;
+}
+#basicPlanButton {
+    border: none;
+    padding: 0;
+    background-color: #F9F5FF;
+    font-size: 14px;
+    font-weight: 500;
+}
+#anchorBasicPlan {
+    text-decoration: none;
+    color: #6941C6;
+}
+#FirstCardPriceDiv {
+    margin-top: 16px;
+    width: 309px;
+    height: 60px;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+    color: #181D27;
+}
+#firstPriceContentDiv {
+    margin-top: 8px;
+    width: 309px;
+    height: 24px;
+    color: #535862;
+    text-align: center;
+}
+#firstGetStartedDiv {
+    margin-top: 16px;
+    width: 309px;
+    height: 48px;
+    box-sizing: border-box;
+    padding: 12px 18px;
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: #7F56D9;
+    text-align: center;
+}
+#firstGetStartedButton {
+    background-color: #7F56D9;
+    border: none;
+    font-weight: 600;
+    vertical-align: middle;
+}
+#anchorFirstGetStarted {
+    text-decoration: none;
+    color: white;
+}
+#firstChatToSalesDiv {
+    margin-top: 12px;
+    width: 309px;
+    height: 48px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 12px 18px;
+    border: 1px solid #D5D7DA;
+    border-radius: 8px;
+}
+#firstChatToSalesButton {
+    border: none;
+    vertical-align: middle;
+    background-color: #FFFFFF;
+}
+#anchorFirstChatToSales {
+    text-decoration: none;
+    color: #414651;
+    font-weight: 600;
+}
+#firstLineDiv {
+    width: 309px;
+    height: 1px;
+    background-color: #E9EAEB;
+    margin: 0 auto;
+}
+#firstUnderContentDiv {
+    max-width: 373px;
+    width: 100%;
+    height: 257px;
+    box-sizing: border-box;
+    padding: 33px 32px 40px 32px;
+}
+#firstUnderContentDiv img {
+    vertical-align: middle;
+    margin-right: 12px;
+    margin-bottom: 16px;
+}
+#firstUnderContentDiv span {
+    vertical-align: middle;
+    color: #535862;
+    display: inline-block;
+    width: 269px;
+    margin-bottom: 16px;
+}
+/* second card */
+#secondCardDiv {
+    display: inline-block;
+    max-width: 373px;
+    width: 100%;
+    height: 589px;
+    border: 1px solid #E9EAEB;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    vertical-align: top;
+    margin-left: 24px;
+}
+#secondCardInfoDiv {
+    max-width: 373px;
+    width: 100%;
+    height: 332px;
+    box-sizing: border-box;
+    padding: 40px 32px;
+}
+#businessPlanButtonDiv {
+    width: 117px;
+    height: 28px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 4px 12px;
+    border: 1px solid #E9D7FE;
+    border-radius: 9px;
+    background-color: #F9F5FF;
+    text-align: center;
+}
+#businessPlanButton {
+    border: none;
+    padding: 0;
+    background-color: #F9F5FF;
+    font-size: 14px;
+    font-weight: 500;
+}
+#anchorBusinessPlan {
+    text-decoration: none;
+    color: #6941C6;
+}
+#secondCardPriceDiv {
+    margin-top: 16px;
+    width: 309px;
+    height: 60px;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+    color: #181D27;
+}
+#secondPriceContentDiv {
+    margin-top: 8px;
+    width: 309px;
+    height: 24px;
+    color: #535862;
+    text-align: center;
+}
+#secondGetStartedDiv {
+    margin-top: 16px;
+    width: 309px;
+    height: 48px;
+    box-sizing: border-box;
+    padding: 12px 18px;
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: #7F56D9;
+    text-align: center;
+}
+#secondGetStartedButton {
+    background-color: #7F56D9;
+    border: none;
+    font-weight: 600;
+    vertical-align: middle;
+}
+#anchorSecondGetStarted {
+    text-decoration: none;
+    color: white;
+}
+#secondChatToSalesDiv {
+    margin-top: 12px;
+    width: 309px;
+    height: 48px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 12px 18px;
+    border: 1px solid #D5D7DA;
+    border-radius: 8px;
+}
+#secondChatToSalesButton {
+    border: none;
+    vertical-align: middle;
+    background-color: #FFFFFF;
+}
+#anchorSecondChatToSales {
+    text-decoration: none;
+    color: #414651;
+    font-weight: 600;
+}
+#secondLineDiv {
+    width: 309px;
+    height: 1px;
+    background-color: #E9EAEB;
+    margin: 0 auto;
+}
+#secondUnderContentDiv {
+    max-width: 373px;
+    width: 100%;
+    height: 257px;
+    box-sizing: border-box;
+    padding: 33px 32px 40px 32px;
+}
+#secondUnderContentDiv img {
+    vertical-align: middle;
+    margin-right: 12px;
+    margin-bottom: 16px;
+}
+#secondUnderContentDiv span {
+    vertical-align: middle;
+    color: #535862;
+    display: inline-block;
+    width: 269px;
+    margin-bottom: 16px;
+}
+/* third card */
+#thirdCardDiv {
+    display: inline-block;
+    max-width: 373px;
+    width: 100%;
+    height: 589px;
+    border: 1px solid #E9EAEB;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    vertical-align: top;
+    margin-left: 24px;
+}
+#thirdCardInfoDiv {
+    max-width: 373px;
+    width: 100%;
+    height: 332px;
+    box-sizing: border-box;
+    padding: 40px 32px;
+}
+#enterprisePlanButtonDiv {
+    width: 125px;
+    height: 28px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 4px 12px;
+    border: 1px solid #E9D7FE;
+    border-radius: 9px;
+    background-color: #F9F5FF;
+    text-align: center;
+}
+#enterprisePlanButton {
+    border: none;
+    padding: 0;
+    background-color: #F9F5FF;
+    font-size: 14px;
+    font-weight: 500;
+}
+#anchorEnterprisePlan {
+    text-decoration: none;
+    color: #6941C6;
+}
+#thirdCardPriceDiv {
+    margin-top: 16px;
+    width: 309px;
+    height: 60px;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+    color: #181D27;
+}
+#thirdPriceContentDiv {
+    margin-top: 8px;
+    width: 309px;
+    height: 24px;
+    color: #535862;
+    text-align: center;
+}
+#thirdGetStartedDiv {
+    margin-top: 16px;
+    width: 309px;
+    height: 48px;
+    box-sizing: border-box;
+    padding: 12px 18px;
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: #7F56D9;
+    text-align: center;
+}
+#thirdGetStartedButton {
+    background-color: #7F56D9;
+    border: none;
+    font-weight: 600;
+    vertical-align: middle;
+}
+#anchorthirdGetStarted {
+    text-decoration: none;
+    color: white;
+}
+#thirdChatToSalesDiv {
+    margin-top: 12px;
+    width: 309px;
+    height: 48px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 12px 18px;
+    border: 1px solid #D5D7DA;
+    border-radius: 8px;
+}
+#thirdChatToSalesButton {
+    border: none;
+    vertical-align: middle;
+    background-color: #FFFFFF;
+}
+#anchorthirdChatToSales {
+    text-decoration: none;
+    color: #414651;
+    font-weight: 600;
+}
+#thirdLineDiv {
+    width: 309px;
+    height: 1px;
+    background-color: #E9EAEB;
+    margin: 0 auto;
+}
+#thirdUnderContentDiv {
+    max-width: 373px;
+    width: 100%;
+    height: 257px;
+    box-sizing: border-box;
+    padding: 33px 32px 40px 32px;
+}
+#thirdUnderContentDiv img {
+    vertical-align: middle;
+    margin-right: 12px;
+    margin-bottom: 16px;
+}
+#thirdUnderContentDiv span {
+    vertical-align: middle;
+    color: #535862;
+    display: inline-block;
+    width: 269px;
+    margin-bottom: 16px;
+}
+/* second section */
+#questionAnswerMainDiv {
+    margin-top: 64px;
+    max-width: 1248px;
+    width: 100%;
+    height: 1252px;
+    box-sizing: border-box;
+    padding: 32px 0 32px 0;
+    background-color: white;
+    border-radius: 24px;
+}
+#questionAnswerTitleDiv {
+    max-width: 768px;
+    width: 100%;
+    height: 92px;
+    margin: 0 auto;
+}
+#questionAnswerTitle {
+    max-width: 550px;
+    width: 100%;
+    height: 44px;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    color: #181D27;
+}
+#contentQuestionAnswerDiv {
+    max-width: 768px;
+    width: 100%;
+    height: 28px;
+    font-size: 24px;
+    color: #535862;
+    text-align: center;
+}
+#questionAnswerFullDiv {
+    max-width: 768px;
+    width: 100%;
+    height: 1064px;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+#firstQADiv {
+    max-width: 768px;
+    width: 100%;
+    height: 168px;
+    box-sizing: border-box;
+    padding: 32px;
+    border-radius: 16px;
+    background-color: #E4E4E4;
+}
+#firstShowHiddenIcon {
+    margin-right: 20px;
+    vertical-align: middle;
+}
+#firstQuestionDiv {
+    display: inline-block;
+    max-width: 656px;
+    width: 100%;
+    height: 24px;
+    color: #181D27;
+    vertical-align: middle;
+}
+#firstAnswerDiv {
+    max-width: 656px;
+    width: 100%;
+    height: 72px;
+    margin-top: 8px;
+    margin-left: 48px;
+    color: #535862;
+    line-height: 24px;
+}
+#secondQADiv {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    height: 144px;
+    box-sizing: border-box;
+    padding: 32px;
+    border: 2px solid #FF2323;
+    border-radius: 16px;
+    background-color: #FFE5E5;
+}
+#secondShowHiddenIcon {
+    margin-right: 16px;
+    vertical-align: middle;
+}
+#secondQuestionDiv {
+    display: inline-block;
+    max-width: 656px;
+    width: 100%;
+    height: 24px;
+    font-weight: 500;
+    color: #181D27;
+    vertical-align: middle;
+}
+#secondAnswerDiv {
+    color: #535862;
+    line-height: 24px;
+    margin-left: 44px;
+    margin-top: 8px;
+}
+#thirdQADiv {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    height: 168px;
+    box-sizing: border-box;
+    padding: 32px;
+    border-radius: 16px;
+    background-color: #E9D7FF;
+}
+#thirdShowHiddenIcon {
+    margin-right: 20px;
+    vertical-align: middle;
+}
+#thirdQuestionDiv {
+    display: inline-block;
+    font-weight: 500;
+    color: #181D27;
+    vertical-align: middle;
+    max-width: 656px;
+    width: 100%;
+    height: 24px;
+}
+#thirdAnswerDiv {
+    color: #535862;
+    line-height: 24px;
+    margin-left: 48px;
+    margin-top: 8px;
+}
+#fouthQADiv {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    height: 168px;
+    box-sizing: border-box;
+    padding: 32px;
+    border-radius: 16px;
+    background-color: #F7F4FF;
+}
+#fourthShowHiddenIcon {
+    margin-right: 20px;
+    vertical-align: middle;
+}
+#fourthQuestionDiv {
+    display: inline-block;
+    font-weight: 500;
+    color: #181D27;
+    vertical-align: middle;
+    max-width: 656px;
+    width: 100%;
+    height: 24px;
+}
+#fourthAnswerDiv {
+    color: #535862;
+    line-height: 24px;
+    margin-left: 48px;
+    margin-top: 8px;
+}
+#fifthQADiv {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    height: 168px;
+    box-sizing: border-box;
+    padding: 32px;
+    border: 4px solid #326DFF;
+    border-radius: 16px;
+    background-color: #DCE6FF;
+}
+#fifthShowHiddenIcon {
+    margin-right: 20px;
+    vertical-align: middle;
+}
+#fifthQuestionDiv {
+    display: inline-block;
+    font-weight: 500;
+    color: #181D27;
+    vertical-align: middle;
+}
+#fifthAnswerDiv {
+    color: #535862;
+    line-height: 24px;
+    margin-left: 48px;
+    margin-top: 8px;
+}
+#sixthQADiv {
+    margin-top: 16px;
+    max-width: 768px;
+    width: 100%;
+    height: 168px;
+    box-sizing: border-box;
+    padding: 32px;
+    border-radius: 16px;
+    background-color: #FFD5E7;
+}
+#sixthShowHiddenIcon {
+    margin-right: 20px;
+    vertical-align: middle;
+}
+#sixthQuestionDiv {
+    display: inline-block;
+    font-weight: 500;
+    color: #181D27;
+    vertical-align: middle;
+}
+#sixthAnswerDiv {
+    color: #535862;
+    line-height: 24px;
+    margin-left: 48px;
+    margin-top: 8px;
+}
+/* third section */
+#reviewsMainDiv {
+    max-width: 1248px;
+    width: 100%;
+    height: 758px;
+    margin-top: 64px;
+    box-sizing: border-box;
+    padding: 32px 0 32px 0;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+}
+#ourReviewsDiv {
+    max-width: 768px;
+    width: 100%;
+    height: 44px;
+    font-size: 40px;
+    font-weight: 600;
+    margin: 0 auto;
+    text-align: center;
+}
+#ourReviewsContent {
+    max-width: 768px;
+    width: 100%;
+    height: 30px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 24px;
+    color: #535862;
+    margin-top: 20px;
+    margin-bottom: 64px;
+}
+#reviewCardsFullDiv {
+    max-width: 1248px;
+    width: 100%;
+    height: 536px;
+    box-sizing: border-box;
+    padding: 0 32px 0 32px;
+}
+#firstReviewCard {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 580px;
+    width: 100%;
+    height: 256px;
+    box-sizing: border-box;
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    margin-right: 20px;
+}
+#firstReviewCardTitle {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 80px;
+}
+#sienaHewittImage {
+    margin-right: 12px;
+    vertical-align: middle;
+}
+#nameSiena {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    vertical-align: middle;
+}
+#nameSiena p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    color: #535862;
+    margin-top: 10px;
+}
+#verifyIconForSiena {
+    vertical-align: middle;
+}
+#logoForWarspeed {
+    vertical-align: top;
+    margin-left: 130px;
+}
+#warpspeedImage {
+    vertical-align: top;
+}
+
+#secondReviewCard {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 580px;
+    width: 100%;
+    height: 256px;
+    box-sizing: border-box;
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+}
+#secondReviewCardTitle {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+#nameCaitlyn {
+    max-width: 317px;
+    width: 100%;
+    height: 52px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#caitlynKingImage {
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#caitlynKing {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: top;
+}
+#caitlynDescription {
+    margin: 0;
+    color: #535862;
+    margin-top: 10px;
+}
+#verifyIconForCaitlyn {
+    vertical-align: middle;
+}
+#logoForOdeaolabs {
+    vertical-align: top;
+}
+#odeaolabsImage {
+    vertical-align: top;
+}
+#thirdReviewCard {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 580px;
+    width: 100%;
+    height: 256px;
+    box-sizing: border-box;
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+#thirdReviewCardTitle{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+#ollySchroederImage {
+    vertical-align: middle;
+    margin-right: 12px;
+}
+#nameOlly {
+    max-width: 332px;
+    width: 100%;
+    height: 52px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#ollySchroeder {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: top;
+}
+#verifyIconForOlly {
+    vertical-align: middle;
+}
+#ollyDescription {
+    margin: 0;
+    color: #535862;
+    margin-top: 10px;
+}
+#logoForNietzsche {
+    vertical-align: top;
+}
+#NietzscheImage {
+    vertical-align: top;
+}
+#fourthReviewCard {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 580px;
+    width: 100%;
+    height: 256px;
+    box-sizing: border-box;
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+#fourthReviewCardTitle {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 80px;
+}
+#rilyOmooreImage {
+    vertical-align: middle;
+    margin-right: 12px;
+}
+#nameRily {
+    max-width: 332px;
+    width: 100%;
+    height: 52px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#rilyOmoore {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: top;
+}
+#verifyIconForRily {
+    vertical-align: middle;
+}
+#rilyDescription {
+    margin: 0;
+    color: #535862;
+    margin-top: 10px;
+}
+#logoForQuartzai {
+    vertical-align: top;
+}
+#quartzaiImage {
+    vertical-align: top;
+}
